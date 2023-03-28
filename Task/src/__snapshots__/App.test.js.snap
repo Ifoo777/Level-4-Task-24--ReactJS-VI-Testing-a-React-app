@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Test 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    API DICTIONARY
+  </h1>
+  <div>
+    Loading...
+  </div>
+  <br />
+  <footer>
+    Powered by Merriam Webster Dictionary
+  </footer>
+</div>
+`;
